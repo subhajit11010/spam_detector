@@ -8,7 +8,7 @@ import torch
 # import matplotlib.pyplot as plt
 # import chardet
 # from pathlib import Path
-from gptmodel_with_pretrained_weights import model_configs, GPTModel, load_weights_into_gpt
+# from gptmodel_with_pretrained_weights import model_configs, GPTModel
 # from gpt_download import download_and_load_gpt2
 
 # tokenizer = tiktoken.get_encoding("gpt2")
